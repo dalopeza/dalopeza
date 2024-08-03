@@ -1,5 +1,8 @@
 ## Hi there 👋
 <img src="http://www.dalopeza.epizy.com/dalopeza_face.png" align="center" alt="Dalopeza">
+&emsp;
+<h3 align="left">Hi 👋, I'm Dalopeza, Site Reliability Engineer based in Lima - Peru. I have extensive experience working in agile environment on several projects as a full stack engineer.</h3>
+&emsp;
 
 <!--
 **dalopeza/dalopeza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
