@@ -1,5 +1,5 @@
 ## Hi there 👋
-<img src="http://dalopeza.epizy.com/dalo2024.jpg" align="center" alt="Dalopeza">
+<img src="http://dalopeza.epizy.com/dalopezaa_2024.jpg" align="center" alt="Dalopeza">
 &emsp;
 <h3 align="left">Hi 👋, I'm Dalopeza, Site Reliability Engineer based in Lima - Peru. I have extensive experience working in agile environment on several projects as a full stack engineer.</h3>
 &emsp;
